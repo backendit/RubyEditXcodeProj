@@ -1,5 +1,4 @@
 # README
-===========================
 
 --------
 |Author|maojianyu|
@@ -20,6 +19,12 @@ Firstly，you should make sure that your machine has installed the ruby environm
 $ ruby -v
 ```
 
+if you don't install ruby environment，you should install it first.
+
+``` rb
+$ brew install ruby
+```
+
 Than，installed the necessary library：'xcodeproj'
 
 ``` shell
@@ -31,3 +36,9 @@ Finally，run the file `updateProjSettings.rb`
 ``` ruby
 $ ruby updateProjSettings.rb
 ```
+
+you can edit the ruby file according to your requirements.You can follow this document：
+
+[xcodeproj API](https://www.rubydoc.info/gems/xcodeproj/Xcodeproj/Project/Object)
+
+
