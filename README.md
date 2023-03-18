@@ -1,11 +1,3 @@
-# README
-
---------
-|Author|maojianyu|
-|---|---
-|E-mail|maojy007@gmail.com
---------
-
 ## Project Name
 `RubyEditXcodeProj`
 
